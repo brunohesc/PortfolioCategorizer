@@ -1,0 +1,14 @@
+C:\Users\bruno\source\repos\PortfolioCategorizer\PortfolioCategorizer\bin\Debug\net6.0\PortfolioCategorizer.exe
+C:\Users\bruno\source\repos\PortfolioCategorizer\PortfolioCategorizer\bin\Debug\net6.0\PortfolioCategorizer.deps.json
+C:\Users\bruno\source\repos\PortfolioCategorizer\PortfolioCategorizer\bin\Debug\net6.0\PortfolioCategorizer.runtimeconfig.json
+C:\Users\bruno\source\repos\PortfolioCategorizer\PortfolioCategorizer\bin\Debug\net6.0\PortfolioCategorizer.dll
+C:\Users\bruno\source\repos\PortfolioCategorizer\PortfolioCategorizer\bin\Debug\net6.0\PortfolioCategorizer.pdb
+C:\Users\bruno\source\repos\PortfolioCategorizer\PortfolioCategorizer\obj\Debug\net6.0\PortfolioCategorizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\source\repos\PortfolioCategorizer\PortfolioCategorizer\obj\Debug\net6.0\PortfolioCategorizer.AssemblyInfoInputs.cache
+C:\Users\bruno\source\repos\PortfolioCategorizer\PortfolioCategorizer\obj\Debug\net6.0\PortfolioCategorizer.AssemblyInfo.cs
+C:\Users\bruno\source\repos\PortfolioCategorizer\PortfolioCategorizer\obj\Debug\net6.0\PortfolioCategorizer.csproj.CoreCompileInputs.cache
+C:\Users\bruno\source\repos\PortfolioCategorizer\PortfolioCategorizer\obj\Debug\net6.0\PortfolioCategorizer.dll
+C:\Users\bruno\source\repos\PortfolioCategorizer\PortfolioCategorizer\obj\Debug\net6.0\refint\PortfolioCategorizer.dll
+C:\Users\bruno\source\repos\PortfolioCategorizer\PortfolioCategorizer\obj\Debug\net6.0\PortfolioCategorizer.pdb
+C:\Users\bruno\source\repos\PortfolioCategorizer\PortfolioCategorizer\obj\Debug\net6.0\PortfolioCategorizer.genruntimeconfig.cache
+C:\Users\bruno\source\repos\PortfolioCategorizer\PortfolioCategorizer\obj\Debug\net6.0\ref\PortfolioCategorizer.dll
