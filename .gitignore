@@ -1,0 +1,20 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/PortfolioCategorizer/.vs
+/PortfolioCategorizer/PortfolioCategorizer/bin/Debug/net6.0/PortfolioCategorizer.dll
+/PortfolioCategorizer/PortfolioCategorizer/bin/Debug/net6.0/PortfolioCategorizer.pdb
+/PortfolioCategorizer/PortfolioCategorizer/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+/PortfolioCategorizer/PortfolioCategorizer/obj/Debug/net6.0/PortfolioCategorizer.assets.cache
+/PortfolioCategorizer/PortfolioCategorizer/obj/Debug/net6.0/PortfolioCategorizer.csproj.FileListAbsolute.txt
+/PortfolioCategorizer/PortfolioCategorizer/obj/Debug/net6.0/PortfolioCategorizer.dll
+/PortfolioCategorizer/PortfolioCategorizer/obj/Debug/net6.0/PortfolioCategorizer.GeneratedMSBuildEditorConfig.editorconfig
+/PortfolioCategorizer/PortfolioCategorizer/obj/Debug/net6.0/PortfolioCategorizer.genruntimeconfig.cache
+/PortfolioCategorizer/PortfolioCategorizer/obj/Debug/net6.0/PortfolioCategorizer.pdb
+/PortfolioCategorizer/PortfolioCategorizer/obj/PortfolioCategorizer.csproj.nuget.dgspec.json
+/PortfolioCategorizer/PortfolioCategorizer/obj/project.assets.json
+/PortfolioCategorizer/PortfolioCategorizer/obj/project.nuget.cache
+/PortfolioCategorizer/PortfolioCategorizer/bin/
+/PortfolioCategorizer/PortfolioCategorizer/obj/

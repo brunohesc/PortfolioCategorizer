@@ -39,7 +39,7 @@ namespace BankCategoryIdentifier
         }
 
         /// <summary>
-        /// Iterates through all implementations of ITradeCategory and returns the name of the first category for which the category rule applies to the trade
+        /// Iterates through all implementations of ITradeCategory and returns the name of the first category for which the rule applies to the trade
         /// </summary>
         /// <param name="trade"></param>
         /// <returns></returns>
@@ -49,7 +49,7 @@ namespace BankCategoryIdentifier
             {
                 try
                 {
-                    if (category.ValidateCategory(trade))
+                    if (trade != null && category.ValidateCategory(trade))
                         return category.CategoryName;
                 }
                 catch (Exception ex)

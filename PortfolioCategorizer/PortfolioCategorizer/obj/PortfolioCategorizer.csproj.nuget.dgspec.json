@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bruno\\source\\repos\\PortfolioCategorizer\\PortfolioCategorizer\\PortfolioCategorizer.csproj": {}
+    "C:\\Users\\bruno\\source\\repos\\PortfolioCategorizer2\\PortfolioCategorizer\\PortfolioCategorizer\\PortfolioCategorizer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bruno\\source\\repos\\PortfolioCategorizer\\PortfolioCategorizer\\PortfolioCategorizer.csproj": {
+    "C:\\Users\\bruno\\source\\repos\\PortfolioCategorizer2\\PortfolioCategorizer\\PortfolioCategorizer\\PortfolioCategorizer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bruno\\source\\repos\\PortfolioCategorizer\\PortfolioCategorizer\\PortfolioCategorizer.csproj",
+        "projectUniqueName": "C:\\Users\\bruno\\source\\repos\\PortfolioCategorizer2\\PortfolioCategorizer\\PortfolioCategorizer\\PortfolioCategorizer.csproj",
         "projectName": "PortfolioCategorizer",
-        "projectPath": "C:\\Users\\bruno\\source\\repos\\PortfolioCategorizer\\PortfolioCategorizer\\PortfolioCategorizer.csproj",
+        "projectPath": "C:\\Users\\bruno\\source\\repos\\PortfolioCategorizer2\\PortfolioCategorizer\\PortfolioCategorizer\\PortfolioCategorizer.csproj",
         "packagesPath": "C:\\Users\\bruno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bruno\\source\\repos\\PortfolioCategorizer\\PortfolioCategorizer\\obj\\",
+        "outputPath": "C:\\Users\\bruno\\Source\\Repos\\PortfolioCategorizer2\\PortfolioCategorizer\\PortfolioCategorizer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
